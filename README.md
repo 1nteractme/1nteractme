@@ -2,7 +2,7 @@ Hello everyone! I'm glad to see you in my GitHub profile :3
 ==========
 <h2>About Me👨‍🎓:</h2>
 <p>
-<h4>My name is Vlad, 17 y.o. and I'm gonna be a team-lead C# developer.</h4>
+<h4>My name is Vlad, 20 y.o. and I'm gonna be a team-lead C# developer.</h4>
 <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1nteractme&theme=nord_dark )
