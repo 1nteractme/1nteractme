@@ -15,9 +15,6 @@ Hello everyone! I'm glad to see you in my GitHub profile :3
 </p>
 <p>
 <h4>I work with Unity Engine to develop games and choose WPF to make Windows Applications.</h4>
-<br>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1nteractme&theme=nord_dark )
 </p>
 
 <h4>Usually i use:</h4>
