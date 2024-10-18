@@ -5,8 +5,8 @@ Hello everyone! I'm glad to see you in my GitHub profile :3
 <h4>My name is Vlad, 18 y.o. and I'm gonna be a team-lead C# developer.</h4>
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1nteractme&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1nteractme&theme=monokai ) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1nteractme&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1nteractme&theme=monokai ) 
+
 </p>
 <p>
 <h4>Now, I'm just a junior C# developer.</h4>
