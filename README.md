@@ -1,47 +1,51 @@
-#Glad to see y on this page#
-==========
+# Glad to see you on this page #
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1nteractme&theme=monokai ) 
-<h2>About Me👨‍🎓:</h2>
-<p>
-<h4>My name is Vlad, 18 y.o. and I'm gonna be a team-lead C# developer.</h4>
-<br>
 
+## I'm is 18 y.o. mid. I'm based on c# with a couple years experience on fl ##
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1nteractme&theme=monokai)
 
-</p>
-<p>
-<h4>Now, I'm just a junior C# developer.</h4>
-<br>
+## <img src="https://img.icons8.com/?size=100&id=v99ZVcvSbRBp&format=png&color=000000" width="18" height="18" alt="Mac"/> Stack: ##
 
-</p>
-<p>
-<h4>I work with Unity Engine to develop games and choose WPF to make Windows Applications.</h4>
+### Languages & Frameworks ###
+<table>
+    <thead>
+        <tr>
+            <th>Web Development</th>
+            <th>Mobile Development</th>
+            <th>Game Development</th>
+            <th>Other Development</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img src="https://img.icons8.com/?size=100&id=9yPfdIAPFYys&format=png&color=000000" width="50" height="50" alt="Laravel" /></td>
+            <td><img src="https://img.icons8.com/?size=100&id=24465&format=png&color=000000" width="50" height="50" alt="Swift" /></td>
+            <td><img src="https://img.icons8.com/?size=100&id=vJMs5fU2hLbg&format=png&color=000000" width="50" height="50" alt="Unity" /></td>
+            <td><img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" width="50" height="50" alt="C++" /></td>
+        </tr>
+        <tr>
+            <td><img src="https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000" width="50" height="50" alt="PHP" /></td>
+            <td><img src="https://img.icons8.com/?size=100&id=pCvIfmctRaY8&format=png&color=000000" width="50" height="50" alt="Flutter" /></td>
+            <td><img src="https://img.icons8.com/?size=100&id=ROMfFZ1tMhpk&format=png&color=000000" width="50" height="50" alt="Firebase" /></td>
+            <td><img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" width="50" height="50" alt="Python" /></td>
+        </tr>
+        <tr>
+        <td></td> 
+            <td><img src="https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000" width="50" height="50" alt="Dart" /></td>
+            <td><img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" width="54" height="54" alt="C#" /></td> 
+            <td><img src="https://img.icons8.com/?size=100&id=22189&format=png&color=000000" width="50" height="50" alt="Ruby" /></td>
+        </tr>
+    </tbody>
+</table>
+
+### UI / UX & Media ###
+<p align="left">
+<img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" width="54" height="54" alt="Figma" />
+<img src="https://img.icons8.com/?size=100&id=87ZqKgnPMW8m&format=png&color=000000" width="54" height="54" alt="PremierPro" />
 </p>
 
-<h4>Usually i use:</h4>
-<p>  
-<a><img src="https://img.icons8.com/ios-filled/512/unity.png" width="48" height="48" alt="Unity" /></a>
-<a><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="48" height="48" alt="C#" />
-</p>
-<h2>I use🧑‍💻:</h2>
-<h4>I use these programs to create design and media content for my projects🖥️.<h4>
+### Workflow ###
 <p align="left">
-<img src="https://img.icons8.com/color/512/adobe-photoshop--v1.png" width="48" height="48" alt="Photoshop" />
-<img src="https://img.icons8.com/color/512/adobe-premiere-pro--v1.png" width="48" height="48" alt="PremierPro" />
-<img src="https://img.icons8.com/color/512/adobe-after-effects--v1.png" width="48" height="48" alt="AfterEffects" />
-<img src="https://img.icons8.com/color/512/adobe-illustrator--v1.png" width="48" height="48" alt="Illustrator" />
-<img src="https://img.icons8.com/color/512/figma.png" width="48" height="48" alt="Figma" />
-</p>
-<h4>And use these to write code⌨️.<h4>
-<p align="left">
-<img src="https://img.icons8.com/color/512/visual-studio-code-2019.png" width="48" height="48" alt="VisualStudioCode" />
-<img src="https://img.icons8.com/color/512/visual-studio--v2.png" width="48" height="48" alt="VisualStudio" />
-<img src="https://img.icons8.com/color/512/android-studio--v3.png" width="48" height="48" alt="AndroidStudio" />
-<img src="https://img.icons8.com/color/512/adobe-dreamweaver--v1.png" width="48" height="48" alt="Dreamweaver" />
-</p>
-<h2>My social media profiles👀:</h2>
-<p align="left"> 
-<a href="https://discord.com/users/xanauinn#0315" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/discord--v2.png" width="48" height="48" /></a> 
-<a href="https://t.me/xanauinn" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/telegram-app.png" width="48" height="48" /></a>
-<a href="https://www.behance.net/xanauin" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/behance.png" width="48" height="48" /></a>
+<img src="https://img.icons8.com/color/512/visual-studio-code-2019.png" width="54" height="54" alt="VisualStudioCode" />
+<img src="https://img.icons8.com/color/512/android-studio--v3.png" width="54" height="54" alt="AndroidStudio" />
 </p>
