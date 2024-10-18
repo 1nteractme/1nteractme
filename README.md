@@ -11,7 +11,7 @@ Hello everyone! I'm glad to see you in my GitHub profile :3
 <h4>Now, I'm just a junior C# developer.</h4>
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=1nteractme&theme=nord&show_icons=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1nteractme&theme=monokai)
 </p>
 <p>
 <h4>I work with Unity Engine to develop games and choose WPF to make Windows Applications.</h4>
