@@ -7,45 +7,21 @@
 ## <img src="https://img.icons8.com/?size=100&id=v99ZVcvSbRBp&format=png&color=000000" width="18" height="18" alt="Mac"/> Stack: ##
 
 ### Languages & Frameworks ###
-<table>
-    <thead>
-        <tr>
-            <th>Web Development</th>
-            <th>Mobile Development</th>
-            <th>Game Development</th>
-            <th>Other Development</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><img src="https://img.icons8.com/?size=100&id=9yPfdIAPFYys&format=png&color=000000" width="50" height="50" alt="Laravel" /></td>
-            <td><img src="https://img.icons8.com/?size=100&id=24465&format=png&color=000000" width="50" height="50" alt="Swift" /></td>
-            <td><img src="https://img.icons8.com/?size=100&id=vJMs5fU2hLbg&format=png&color=000000" width="50" height="50" alt="Unity" /></td>
-            <td><img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" width="50" height="50" alt="C++" /></td>
-        </tr>
-        <tr>
-            <td><img src="https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000" width="50" height="50" alt="PHP" /></td>
-            <td><img src="https://img.icons8.com/?size=100&id=pCvIfmctRaY8&format=png&color=000000" width="50" height="50" alt="Flutter" /></td>
-            <td><img src="https://img.icons8.com/?size=100&id=ROMfFZ1tMhpk&format=png&color=000000" width="50" height="50" alt="Firebase" /></td>
-            <td><img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" width="50" height="50" alt="Python" /></td>
-        </tr>
-        <tr>
-        <td></td> 
-            <td><img src="https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000" width="50" height="50" alt="Dart" /></td>
-            <td><img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" width="54" height="54" alt="C#" /></td> 
-            <td><img src="https://img.icons8.com/?size=100&id=22189&format=png&color=000000" width="50" height="50" alt="Ruby" /></td>
-        </tr>
-    </tbody>
-</table>
+#### Web Development ####
+[![Web Development](https://skillicons.dev/icons?i=html,css,js,sass,php,jquery,laravel,django,nodejs,nginx,dotnet,docker&perline=3)](https://skillicons.dev)
+
+#### Mobile Developmen ####
+[![Mobile Developmet](https://skillicons.dev/icons?i=flutter,dart,kotlin,swift&perline=3)](https://skillicons.dev)
+
+#### Game Development ####
+[![Game Development](https://skillicons.dev/icons?i=cs,unity,firebase&perline=3)](https://skillicons.dev)
+
+#### Other Development ####
+[![Other Development](https://skillicons.dev/icons?i=cpp,py,ruby,cmake,git,latex,md&perline=3)](https://skillicons.dev)
 
 ### UI / UX & Media ###
-<p align="left">
-<img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" width="54" height="54" alt="Figma" />
-<img src="https://img.icons8.com/?size=100&id=87ZqKgnPMW8m&format=png&color=000000" width="54" height="54" alt="PremierPro" />
-</p>
+[![UIUX](https://skillicons.dev/icons?i=figma,pr,ps&perline=3)](https://skillicons.dev)
 
 ### Workflow ###
-<p align="left">
-<img src="https://img.icons8.com/color/512/visual-studio-code-2019.png" width="54" height="54" alt="VisualStudioCode" />
-<img src="https://img.icons8.com/color/512/android-studio--v3.png" width="54" height="54" alt="AndroidStudio" />
-</p>
+[![UIUX](https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,idea,pycharm,bash&perline=3)](https://skillicons.dev)
+
