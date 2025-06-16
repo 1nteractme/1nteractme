@@ -1,7 +1,7 @@
 # Glad to see you on this page #
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1nteractme&theme=onedark) 
 
-## I'm is 18 y.o. mid. I'm based on c# with a couple years experience on fl ##
+## I'm based on c# with a couple years experience on fl ##
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1nteractme&theme=onedark)
 
 ## <img src="https://img.icons8.com/?size=100&id=v99ZVcvSbRBp&format=png&color=000000" width="18" height="18" alt="Mac"/> Stack: ##
