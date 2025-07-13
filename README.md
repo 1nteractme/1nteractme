@@ -8,7 +8,7 @@
 
 ### Languages & Frameworks ###
 #### Mobile Developmen ####
-[![Mobile Developmet](https://skillicons.dev/icons?i=flutter,kotlin,swift&perline=3)](https://skillicons.dev)
+[![Mobile Developmet](https://skillicons.dev/icons?i=flutter,dart,swift&perline=3)](https://skillicons.dev)
 
 #### Game Development ####
 [![Game Development](https://skillicons.dev/icons?i=cs,unity,firebase&perline=3)](https://skillicons.dev)
