@@ -7,7 +7,7 @@
 ## <img src="https://img.icons8.com/?size=100&id=v99ZVcvSbRBp&format=png&color=000000" width="18" height="18" alt="Mac"/> Stack: ##
 
 ### Languages & Frameworks ###
-#### Mobile Developmen ####
+#### Mobile Development ####
 [![Mobile Developmet](https://skillicons.dev/icons?i=flutter,dart,swift&perline=3)](https://skillicons.dev)
 
 #### Game Development ####
