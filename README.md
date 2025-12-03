@@ -1,7 +1,7 @@
 # 🧑‍🚀 About Me & Experience
 
 <p align="justify">
-Hi! I'm <b>Vladislav Roganov</b>, a game and mobile developer with strong experience in <b>Unity (C#)</b> and <b>Flutter/Kotlin</b>.  
+Hi! I'm <b>Vladislav</b>, a game and mobile developer with strong experience in <b>Unity (C#)</b> and <b>Flutter/Kotlin</b>.  
 I build projects from idea to release, focusing on clean architecture, scalable solutions, and high-quality UI/UX.
 Sharing knowledge is an important part of my experience.
 
