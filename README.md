@@ -18,8 +18,8 @@ Always learning, always building — and always open to new challenges.
 | Dev Category | Tools |
 |---------|-------|
 | **Mobile & Game** | ![Mobile & Gamee](https://skillicons.dev/icons?i=flutter,dart,kotlin,cs,unity&perline=5) |
-| **Databases** | ![Databases](https://skillicons.dev/icons?i=firebase,sqlite,mysql&perline=3) |
-| **Other** | ![C++](https://skillicons.dev/icons?i=cpp,qt,cmake&perline=3) <br> ![Python](https://skillicons.dev/icons?i=py,discord,bots&perline=3) <br> ![Other](https://skillicons.dev/icons?i=git,github,md&perline=3) |
+| **Databases** | ![Databases](https://skillicons.dev/icons?i=firebase,sqlite,mysql&perline=5) |
+| **Other** | ![C++](https://skillicons.dev/icons?i=cpp,qt,cmake&perline=5) <br> ![Python](https://skillicons.dev/icons?i=py,discord,bots&perline=5) <br> ![Other](https://skillicons.dev/icons?i=git,github,md&perline=5) |
 | **Workflow / IDEs** | [![Workflow / IDEs](https://skillicons.dev/icons?i=rider,idea,pycharm,clion,bash&perline=5)](https://skillicons.dev) |
 
 ---
