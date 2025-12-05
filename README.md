@@ -1,29 +1,40 @@
 <div align=center>
+  <picture> <img src="Banner.png" alt="Banner" width="100%"> </picture>
   
-  <img src="Banner.png" alt="Banner" height=270px>
-  <img height=270px src="https://github.com/1nteractme/github-stats-terminal/blob/79f3dd2a7c2a8b48b6a59ab91c5625f318a721b5/github_stats.svg" alt="stats">
   
-  <h4 align="center">I'm a game and mobile developer with strong experience in <b>Unity (C#)</b> and <b>Flutter/Kotlin</b>. I build projects from idea to release, focusing on clean architecture, scalable solutions, and high-quality UI/UX. Sharing knowledge is an important part of my experience.</h4>
+  
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white&style=for-the-badge" alt="Unity"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" alt="Kotlin"/>
-  <img src="https://komarev.com/ghpvc/?username=your-github-1nteractme&color=ff69b4&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
-  <br>
-  <a href="https://git.io/typing-svg"><br><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=24&letterSpacing=0&pause=1000&color=EEEEEE&vCenter=true&width=1000&height=45&lines=Always+learning%2C+always+building+%E2%80%94+and+always+open+to+new+challenges." alt="Typing SVG">
-</div>
+<table align="center">
+  <!-- <tr>
+    <td> <h4 align="center">
+      I'm a game and mobile developer with strong experience in <b>Unity (C#) and <b>Flutter/Kotlin</b>.<br>
+        I build projects from idea to release, focusing on clean architecture, scalable solutions, and high-quality UI/UX.<br>
+        Sharing knowledge is an important part of my experience.
+      </h4>
+    </td>
+  </tr> -->
+  <tr> <td align="center"> <img height="390" src="https://github.com/1nteractme/github-stats-terminal/blob/79f3dd2a7c2a8b48b6a59ab91c5625f318a721b5/github_stats.svg" alt="Stats"> </td> </tr>
+  <tr>
+    <td>
+      <div align="center">
+        <img align="center" src="https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white&style=for-the-badge" alt="Unity"/>
+        <img align="center" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter"/>
+        <img align="center" src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" alt="Kotlin"/>
+        <img align="center" src="https://komarev.com/ghpvc/?username=your-github-1nteractme&color=ff69b4&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<a href="https://git.io/typing-svg"><br><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=24&letterSpacing=0&pause=1000&color=EEEEEE&vCenter=true&width=1000&height=45&lines=Always+learning%2C+always+building+%E2%80%94+and+always+open+to+new+challenges." alt="Typing SVG">
 
 ---
 
-<table width="100%" align=center>
-  <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1nteractme&theme=onedark" alt="Profile Details" /></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1nteractme&theme=onedark" alt="Repos per Language" /></td>
-  </tr>
-</table>
+<div align="center">
+  <picture> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1nteractme&theme=onedark" alt="Profile Details" height="190"> </picture>
+  <picture> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1nteractme&theme=onedark" alt="Repos per Language" height="190"> </picture> <br>
+</div>
 
 ---
 
