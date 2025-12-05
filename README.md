@@ -1,19 +1,8 @@
-<div align=center>
-  <picture> <img src="Banner.png" alt="Banner" width="100%"> </picture>
-  
-  
-  
-</div>
+<picture> <img align=center src="Banner.png" alt="Banner" width="100%"> </picture>
+
+<br>
 
 <table align="center">
-  <!-- <tr>
-    <td> <h4 align="center">
-      I'm a game and mobile developer with strong experience in <b>Unity (C#) and <b>Flutter/Kotlin</b>.<br>
-        I build projects from idea to release, focusing on clean architecture, scalable solutions, and high-quality UI/UX.<br>
-        Sharing knowledge is an important part of my experience.
-      </h4>
-    </td>
-  </tr> -->
   <tr> <td align="center"> <img height="390" src="https://github.com/1nteractme/github-stats-terminal/blob/79f3dd2a7c2a8b48b6a59ab91c5625f318a721b5/github_stats.svg" alt="Stats"> </td> </tr>
   <tr>
     <td>
@@ -31,10 +20,16 @@
 
 ---
 
-<div align="center">
-  <picture> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1nteractme&theme=onedark" alt="Profile Details" height="190"> </picture>
-  <picture> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1nteractme&theme=onedark" alt="Repos per Language" height="190"> </picture> <br>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <picture> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1nteractme&theme=monokai" alt="Profile Details" height="190"> </picture>
+    </td>
+    <td>
+       <picture> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1nteractme&theme=monokai" alt="Repos per Language" height="190"> </picture> <br>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -50,7 +45,6 @@
   
   <h3>Tools</h3>
   <img src="https://skillicons.dev/icons?i=rider,idea,pycharm,clion,bash&perline=5" alt="Development Tools" />
-
 </div>
 
 ---
