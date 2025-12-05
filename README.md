@@ -1,5 +1,8 @@
 <div align=center>
-  <img src="Banner.png" alt="Banner" width="100%">
+  
+  <img src="Banner.png" alt="Banner" height=270px>
+  <img height=270px src="https://github.com/1nteractme/github-stats-terminal/blob/79f3dd2a7c2a8b48b6a59ab91c5625f318a721b5/github_stats.svg" alt="stats">
+  
   <h4 align="center">I'm a game and mobile developer with strong experience in <b>Unity (C#)</b> and <b>Flutter/Kotlin</b>. I build projects from idea to release, focusing on clean architecture, scalable solutions, and high-quality UI/UX. Sharing knowledge is an important part of my experience.</h4>
 </div>
 
@@ -25,10 +28,7 @@
 ---
 
 <div align="center">
-  <!-- <p align="center"><img align="center" src="https://github-stats-terminal-style.herokuapp.com/1nteractme" alt="stats"></p> -->
-
   <h2>Tech Stack</h2>
-
   <img style="min-width: 100%;" src="https://raw.githubusercontent.com/1nteractme/1nteractme/output/github-snake-dark.svg" alt="GitHub Snake">
 
   <h3>Mobile & Game Development</h3>
