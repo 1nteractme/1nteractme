@@ -1,4 +1,5 @@
 name: GitHub Snk Readme Workflow
+
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -6,13 +7,46 @@ on:
   push:
     branches:
       - main
+
 jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [14.x]
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: 'npm'
+
+      - name: Install requirements
+        run: npm install
+
+      - name: Github Configurations
+        run: |
+          git config --global user.name "Github Actions"
+          git config --global user.email "action@github.com"
+          git pull
+
+      - name: Update Template
+        run: node updater.js ${{ github.repository_owner }} atom
+        env:
+          GHT: ${{ secrets.GHT }}
+
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
     steps:
       - name: 1. Checkout Repository
         uses: actions/checkout@v3
+
       - name: 2. Generate GitHub Contributions Snake Animations
         uses: Platane/snk/svg-only@v3
         with:
@@ -22,6 +56,7 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: 3. Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
