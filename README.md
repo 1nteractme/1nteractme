@@ -18,18 +18,13 @@
 
 <a href="https://git.io/typing-svg"><br><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=24&letterSpacing=0&pause=1000&color=EEEEEE&vCenter=true&width=1000&height=45&lines=Always+learning%2C+always+building+%E2%80%94+and+always+open+to+new+challenges." alt="Typing SVG">
 
+<picture> <img width=100% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1nteractme&theme=monokai" alt="Profile Details"> </picture>
+
 ---
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <picture> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1nteractme&theme=monokai" alt="Profile Details" height="190"> </picture>
-    </td>
-    <td>
-       <picture> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1nteractme&theme=monokai" alt="Repos per Language" height="190"> </picture> <br>
-    </td>
-  </tr>
-</table>
+<h2 align="center" >My projects</h2>
+
+<picture> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1nteractme&theme=monokai" alt="Repos per Language" height="190"> </picture> <br>
 
 ---
 
