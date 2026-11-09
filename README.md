@@ -1,27 +1,54 @@
 <!-- <picture> <img align=center src="Banner.png" alt="Banner" width="100%"> </picture> -->
 
-<!-- <br> -->
 <h2 align="center">About Me</h2>
 
 <table align="center">
   <tr>
-    <td align="center"> <img height="390" src="https://github.com/1nteractme/github-stats-terminal/blob/79f3dd2a7c2a8b48b6a59ab91c5625f318a721b5/github_stats.svg" alt="Stats"> </td>
+    <td align="center"> <img src="https://github.com/1nteractme/github-stats-terminal/blob/79f3dd2a7c2a8b48b6a59ab91c5625f318a721b5/github_stats.svg" alt="Stats"> </td>
     <td align="center">
       <h3>Mobile &amp; Game Development</h3>
-      <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,cs,unity&amp;perline=5" alt="Mobile and game development technologies"/>
+      <img
+        src="https://skillicons.dev/icons?i=flutter,dart,kotlin,cs,unity&amp;perline=5"
+        alt="Mobile and game development technologies"
+      />
       <h3>Backend &amp; DevOps</h3>
-      <img src="https://skillicons.dev/icons?i=cpp,qt,cmake&amp;perline=5" alt="C++, Qt and CMake"/>
+      <img
+        src="https://skillicons.dev/icons?i=cpp,qt,cmake&amp;perline=5"
+        alt="C++, Qt and CMake"
+      />
       <br />
-      <img src="https://skillicons.dev/icons?i=py,discord,bots&amp;perline=5" alt="Python, Discord and bots"/>
+      <img
+        src="https://skillicons.dev/icons?i=py,discord,bots&amp;perline=5"
+        alt="Python, Discord and bots"
+      />
       <br />
-      <img src="https://skillicons.dev/icons?i=git,github,md&amp;perline=5" alt="Git, GitHub and Markdown"/>
+      <img
+        src="https://skillicons.dev/icons?i=git,github,md&amp;perline=5"
+        alt="Git, GitHub and Markdown"
+      />
       <br />
-      <img src="https://skillicons.dev/icons?i=firebase,sqlite,mysql&amp;perline=5" alt="Firebase, SQLite and MySQL"/>
+      <img
+        src="https://skillicons.dev/icons?i=firebase,sqlite,mysql&amp;perline=5"
+        alt="Firebase, SQLite and MySQL"
+      />
       <h3>Tools</h3>
-      <img src="https://skillicons.dev/icons?i=rider,idea,pycharm,clion,bash&amp;perline=5" alt="Development tools"/>
+      <img
+        src="https://skillicons.dev/icons?i=rider,idea,pycharm,clion,bash&amp;perline=5"
+        alt="Development tools"
+      />
     </td>
   </tr>
-
+  <tr>
+    <td colspan="2" align="center">
+      <picture>
+        <img
+          width="100%"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1nteractme&amp;theme=monokai"
+          alt="Profile details"
+        />
+      </picture>
+    </td>
+  </tr>
   <tr>
     <td colspan="2" align="center">
       <img
@@ -44,11 +71,9 @@
   </tr>
 </table>
 
-<picture> <img width=100% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1nteractme&theme=monokai" alt="Profile Details"> </picture>
-
 <h2 align="center" >My projects</h2>
 
-<picture> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1nteractme&theme=monokai" alt="Repos per Language" height="190"> </picture> <br>
+<picture align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1nteractme&theme=monokai" alt="Repos per Language" height="190"> </picture> <br>
 
 <div align="center">
   <h2>Connect With Me</h2>
