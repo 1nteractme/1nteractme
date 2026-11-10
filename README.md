@@ -1,3 +1,18 @@
+<div align="center">
+  
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+  
+</div>
+
+<div align="center">
+  <td colspan="2" align="center" valign="top">
+    <img src="https://img.shields.io/badge/Unity-100000?logo=unity&amp;logoColor=white&amp;style=for-the-badge" alt="Unity"/>
+    <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&amp;logoColor=white&amp;style=for-the-badge" alt="Flutter"/>
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&amp;logoColor=white&amp;style=for-the-badge" alt="Kotlin"/>
+    <img src="https://komarev.com/ghpvc/?username=1nteractme&amp;color=ff69b4&amp;style=for-the-badge&amp;abbreviated=true" alt="Profile views"/>
+  </td>
+</div>
+
 <table align="center">
   <tr>
     <td>
@@ -23,25 +38,6 @@
 
 <div align="center">
   
-</div>
-  
-<br/>
-
-<div align="center">
-  <td colspan="2" align="center" valign="top">
-    <img src="https://img.shields.io/badge/Unity-100000?logo=unity&amp;logoColor=white&amp;style=for-the-badge" alt="Unity"/>
-    <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&amp;logoColor=white&amp;style=for-the-badge" alt="Flutter"/>
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&amp;logoColor=white&amp;style=for-the-badge" alt="Kotlin"/>
-    <img src="https://komarev.com/ghpvc/?username=1nteractme&amp;color=ff69b4&amp;style=for-the-badge&amp;abbreviated=true" alt="Profile views"/>
-  </td>
-</div>
-
-<br/>
-
-<div align="center">
-  
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-  <br/>
   [![Telegram](https://img.shields.io/badge/Telegram-1f1f1f?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@interactme)
   [![VK](https://img.shields.io/badge/VK-1f1f1f?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/1nteractme)
   [![Email](https://img.shields.io/badge/Mail-1f1f1f?style=for-the-badge&logo=gmail&logoColor=white)](xanauinn@gmail.com)
