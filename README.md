@@ -17,6 +17,7 @@
   <tr>
     <td>
       <img width="600" src="https://github.com/1nteractme/github-stats-terminal/blob/79f3dd2a7c2a8b48b6a59ab91c5625f318a721b5/github_stats.svg" alt="Stats">
+      <br/>
       <img width="600" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1nteractme&amp;theme=monokai" alt="Profile details"/>
     </td>
     <td width="400" align="center">
